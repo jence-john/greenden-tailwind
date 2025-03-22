@@ -13,6 +13,7 @@ Greenden is a modern and visually appealing e-commerce website for plant and gar
 ## Technologies Used
 - **HTML**
 - **Tailwind CSS**
+- **JavaScript**
 
 ## How to View
 
